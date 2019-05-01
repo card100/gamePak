@@ -9,6 +9,8 @@
 :......::::..:::::..::..:::::..::........::..:::::::::..:::::..::..::::..::
 
 (c) 2019 Henry Gruett (card100)
+gamePak is under an MIT License:
+https://card100.github.io/gamePak/LICENSE
 
 ===========
 | MAIN.js |
