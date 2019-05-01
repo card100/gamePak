@@ -10,6 +10,10 @@
 
 (c) 2019 Henry Gruett (card100)
 
+===========
+| MAIN.js |
+===========
+
 This is the main file that you should always load. Go to https://github.com/card100/gamePak/wiki for more info.
 
 This file handles:
