@@ -1,3 +1,13 @@
+/*
+=============
+| SPRITE.js |
+=============
+
+A sprite is a "character" or "object" in your game.
+
+This file handles:
+- Sprite management (creating, deleting, etc.)
+*/
 // glbal vars
 var sprites = [];
 var costumes = [];
